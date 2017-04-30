@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding 0px;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a.url {
+	color: black;
+}
+
+ul {
+	list-style:none;
+	margin-left:20px;
+	padding: 0px;
+}
+
+li {
+	margin-top:20px;
+}
+
+header {
+  margin-top:20px;
+  margin-left: 20px;
+}
+
+header #search {
+  margin-right:10px;
+  margin-bottom:10px;
+}
+
+header #default, #pageRank {
+  margin-right: 10px;
+}
+
+header #pageRank {
+  margin-left: 10px;
+}
